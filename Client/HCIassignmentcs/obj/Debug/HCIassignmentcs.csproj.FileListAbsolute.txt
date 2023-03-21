@@ -1,0 +1,18 @@
+D:\Python\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.csproj.AssemblyReference.cache
+D:\Python\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.Properties.Resources.resources
+D:\Python\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.csproj.GenerateResource.cache
+D:\Python\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.csproj.CoreCompileInputs.cache
+D:\Python\HCIassignmentcs\HCIassignmentcs\bin\Debug\HCIassignmentcs.exe.config
+D:\Python\HCIassignmentcs\HCIassignmentcs\bin\Debug\HCIassignmentcs.exe
+D:\Python\HCIassignmentcs\HCIassignmentcs\bin\Debug\HCIassignmentcs.pdb
+D:\Python\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.exe
+D:\Python\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.pdb
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\bin\Debug\HCIassignmentcs.exe.config
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\bin\Debug\HCIassignmentcs.exe
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\bin\Debug\HCIassignmentcs.pdb
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.Properties.Resources.resources
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.exe
+C:\Users\PC\Desktop\4th\Second Semester\CS484 Human Computer Interaction\Assignments\HCI LAB Assignment 1\HCIassignmentcs\HCIassignmentcs\obj\Debug\HCIassignmentcs.pdb

@@ -1,0 +1,41 @@
+<form>
+    <button>Connect with Bluttoth Device</button>
+</form>
+
+<script>
+    function isWebBLEAvailable(){
+        if (!navigator.bluetooth){
+            console.log('Not Avaliable')
+            return false
+
+        }
+
+        return true
+    }
+
+    function getDeviceInfo(){
+        let options = {
+            acceptAllDevices: true
+        }
+
+        console.log('Requesting bluttoth device info.....')
+    navigator.bluetooth.requestDevice(options).then(device=>{
+        console.log('name: ' + device.name)
+    }).catch(error =>{
+        console.log('Request device error: ' + error)
+    })
+
+    }
+
+ 
+
+    document.querySelector('form').addEventListener('submit', function(event) {
+    event.stopPropagation()
+    event.preventDefault()
+
+    if (isWebBLEAvailable()) {
+      getDeviceInfo()
+    }
+  })
+  
+</script>
